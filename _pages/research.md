@@ -9,7 +9,7 @@ toc_label: "Research"
 toc_icon: "gear"
 toc_sticky: true
 ---
-
+<!--
 My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
 - Regional coupled physical-biogeochemical modeling
 - Integrating machine learning and ocean modeling
@@ -132,4 +132,5 @@ Check out [this presentation](https://noraloose.github.io/ams2022-talk) on GCM-F
 
 Related publications: [Loose et al.](https://doi.org/10.21105/joss.03947), JOSS (2022); 
 [Grooms, Loose et al.](https://doi.org/10.1029/2021MS002552), JAMES (2021).
+-->
 
