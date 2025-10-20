@@ -10,7 +10,7 @@ author_profile: true
 
 # About
 
-I am a PhD student under the supervision of Prof. Kothare in the Department of Chemical and Biomolecular Engineering at Lehigh University.
+I am a final year PhD student under the supervision of Prof. Kothare in the Department of Chemical and Biomolecular Engineering at Lehigh University.
 
 During my undergraduate degree in Chemical Engineering, I conducted research on computational fluid dynamics (CFD) in packed bed systems under the supervision of Prof. Khalifeh and Prof. Alkhedher. I later worked on eco-friendly packaging materials by studying lotus-based cellulose-derived (ADULOSE) materials using all-atom molecular dynamics (MD) simulations under the guidance of Prof. Madhuranthakam.
 
