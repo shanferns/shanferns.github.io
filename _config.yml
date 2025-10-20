@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "dark" # "default", "air", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Nora Loose"
+title                    : "Shannon Q Fernandes"
 title_separator          : "-"
-name                     : "Nora Loose"
-description              : "Nora Loose's personal website"
-url                      : "https://noraloose.github.io" # should not end with /
+name                     : "Shannon Q Fernandes"
+description              : "Shannon Q Fernandes's personal website"
+url                      : "https://shanferns.github.io" # should not end with /
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -79,11 +79,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nora Loose"
+  name             : "Shannon Q Fernandes"
   avatar           : "/assets/images/avatar2.JPG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Global and Regional Ocean Modeling, Machine Learning, Mesoscale Eddy Parameterizations, Scientific Software Development, Adjoint Modeling, Data Assimilation, Uncertainty Quantification"
-  location         : "Boulder, Colorado"
-  email            : "nora@cworthy.org"
+  bio              : "Digital-twin, Computationally cheap medical systems modeling, Biophysics, Computational neuroscience, Closed-loop control, Computational fluid dynamics (CFD), Applied data science"
+  location         : "Bethlehem, Pennsylvania"
+  email            : "shanferns12@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,13 +91,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "NoraLoose"
+  github           : "https://github.com/shanferns"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "nora-loose-44a39a96"
+  linkedin         : "https://www.linkedin.com/in/shannon-fernandes-131b5013a/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -108,7 +108,8 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  orcid            : "0000-0002-3684-9634"
+  orcid            : "0009-0007-6186-5162"
+  gscholar         : "https://scholar.google.com/citations?hl=en&user=ybpS1cUAAAAJ"
 
 
 # Reading Files
