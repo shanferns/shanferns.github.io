@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Shannon Q Fernandes"
-  avatar           : "/assets/images/RES_Photo-9558.jpg" # path of avatar image, e.g. "/assets/images/RES_Photo-9558.jpg"
+  avatar           : "/assets/images/RES_Photo-9592.jpg" # path of avatar image, e.g. "/assets/images/RES_Photo-9558.jpg"
   bio              : "Digital-twin, Computationally cheap medical systems modeling, Biophysics, Computational neuroscience, Closed-loop control, Computational fluid dynamics (CFD), Applied data science"
   location         : "Bethlehem, Pennsylvania"
   email            : "shanferns12@gmail.com"
