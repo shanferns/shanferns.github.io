@@ -9,6 +9,15 @@ author_profile: true
 <img src="/assets/images/RES_Photo-9558.jpg" width="340px" alt="Shannon Q Fernandes" align="right" style="margin-left: 40px; margin-bottom: 10px;" />
 
 # About
+
+I am a PhD student under the supervision of Prof. Kothare in the Department of Chemical and Biomolecular Engineering at Lehigh University.
+
+During my undergraduate degree in Chemical Engineering, I conducted research on computational fluid dynamics (CFD) in packed bed systems under the supervision of Prof. Khalifeh and Prof. Alkhedher. I later worked on eco-friendly packaging materials by studying lotus-based cellulose-derived (ADULOSE) materials using all-atom molecular dynamics (MD) simulations under the guidance of Prof. Madhuranthakam.
+
+Currently, in my PhD, my research focuses on systems-level modeling of gastric regulation. I have developed mechanistic and computationally efficient models (based entirely on ordinary differential equations and algebraic equations) to simulate electrophysiology, soft tissue mechanics, and fluid dynamics of the stomach to study gastric motility and emptying. Some of the reduced-order ODE formulations have been validated using finite element and finite volume analyses in COMSOL Multiphysics. My models capture key aspects of gastric function, including the vagal pathways that mediate the gut–brain (vago–vagal) reflex loop of the autonomic nervous system. I have also implemented a real-time invasive vagal nerve stimulator within a nonlinear model predictive control (NMPC) framework to investigate vagus nerve stimulation (VNS) as a neurostimulation therapy for gastrointestinal disorders such as dyspepsia.
+
+Currently, I am working on integrating MRI/fMRI and electrogastrography (EGG) data to validate my human gastric regulation models and to develop digital twins for personalized therapeutic applications
+
 <!--
 I am a Staff Scientist at [[C]Worthy](https://www.cworthy.org/), a small non-profit research organization dedicated to quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
 At [C]Worthy, I use ocean circulation models such as Oceananigans.jl and ROMS-MARBL to investigate how physical ocean processes influence CDR outcomes. My work focuses on developing faster and more efficient methods for running ocean biogeochemical simulations and performing CDR calculations. I also build open-source software tools to ensure these simulations are reproducible and accessible to the broader research and CDR communities. /]
