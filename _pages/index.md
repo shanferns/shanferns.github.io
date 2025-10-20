@@ -16,7 +16,7 @@ During my undergraduate degree in Chemical Engineering, I conducted research on 
 
 In my PhD, my research focuses on systems-level modeling of gastric regulation. I have developed mechanistic and computationally efficient models (based entirely on ordinary differential equations and algebraic equations) to simulate electrophysiology, soft tissue mechanics, and fluid dynamics of the stomach to study gastric motility and emptying. Some of the reduced-order ODE formulations have been validated using finite element and finite volume analyses in COMSOL Multiphysics. My models capture key aspects of gastric function, including the vagal pathways that mediate the gut–brain (vago–vagal) reflex loop of the autonomic nervous system. I have also implemented a real-time invasive vagal nerve stimulator within a nonlinear model predictive control (NMPC) framework to investigate vagus nerve stimulation (VNS) as a neurostimulation therapy for gastrointestinal disorders such as dyspepsia.
 
-Currently, I am working on integrating MRI/fMRI and electrogastrography (EGG) data to validate my human gastric regulation models and to develop digital twins for personalized therapeutic applications
+Currently, I am working on integrating MRI/fMRI and electrogastrography (EGG) data to validate my human gastric regulation models and to develop digital twins for personalized therapeutic applications.
 
 <!--
 I am a Staff Scientist at [[C]Worthy](https://www.cworthy.org/), a small non-profit research organization dedicated to quantifying the efficiency and ecological impacts of ocean-based carbon dioxide removal (CDR). 
