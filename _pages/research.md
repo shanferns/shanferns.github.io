@@ -50,7 +50,7 @@ toc_sticky: true
 <td>
     <b>Shannon Q. Fernandes</b> and Mayuresh V. Kothare. 
     <i>A Compartmental Model for Simulating the Gut–Brain Axis in Gastric Function Regulation.</i> 
-    <b>bioRxiv</b>, 2025-06. <a href="[https://www.biorxiv.org/](https://www.biorxiv.org/content/10.1101/2025.06.19.660643v1.abstract)">Paper</a> <br>
+    <b>bioRxiv</b>, 2025-06. <a href="https://www.biorxiv.org/content/10.1101/2025.06.19.660643v1.abstract">Paper</a> <br>
     <ul>
         <li>Developed the first complete computational model of the vago-vagal reflex loop that simulates parasympathetic vagal pathways regulating gastric motility and pyloric sphincter relaxation during the gastric emptying phase.</li>
         <li>Introduced a gut–brain axis model integrating vagal and enteric nervous system (ENS) pathways within a computationally efficient compartmental framework, capturing afferent and efferent feedback dynamics across the fundus, antrum, and pylorus.</li>
