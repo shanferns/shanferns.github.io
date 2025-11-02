@@ -162,16 +162,16 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/TBC_Fluent.png"><img src="/assets/images/TBC_Fluent.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/TBC_CFD_2019.png"><img src="/assets/images/TBC_CFD_2019.png" height="400" width="800" alt=""></a>
 </td>
 <td>
     <b>H. A. Khalifeh</b>, M. Alkhedher, and Shannon Q. Fernandes. 
-    <i>Two-Phase Hydrodynamic Simulations of Turbulent Bed Contactor Using ANSYS Fluent.</i> 
-    <b>International Review on Modelling and Simulations</b>, 14(4), 2021. <br>
+    <i>A CFD Simulation for a Two-Phase Turbulent Bed Contactor.</i> 
+    In <b>Proceedings of the 8th International Conference on Modeling, Simulation and Applied Optimization (ICMSAO)</b>, pp. 1–4, IEEE, 2019. <br>
     <ul>
-        <li>Developed a computational model using ANSYS Fluent to simulate bed hydrodynamics and pressure drop in turbulent bed contactors under varying gas velocities, static bed heights, particle sizes, liquid flow rates, and rheological properties.</li>
-        <li>Conducted two-phase (gas–solid) simulations, analyzing the effect of operational parameters on pressure drop and overall hydrodynamic behavior.</li>
-        <li>Validated simulation results against experimental data, demonstrating strong agreement and providing insights into design and operational factors affecting TBC efficiency in the process industry.</li>
+        <li>Developed a two-phase CFD model to simulate hydrodynamics in turbulent bed contactors, focusing on gas–solid interactions and pressure drop behavior.</li>
+        <li>Investigated the effect of varying operational parameters including gas velocity, bed height, and particle size on the bed hydrodynamics.</li>
+        <li>Validated simulation results against experimental data, providing insights into design and operational optimization for process industry applications.</li>
     </ul>
 </td>
 </tr>
