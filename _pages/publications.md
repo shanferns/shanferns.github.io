@@ -5,7 +5,9 @@ sitemap: true
 permalink: /publications/
 author_profile: true
 ---
-Coming soon: Tutorials on organ modeling
+## Coming soon
+
+Tutorials on organ modeling
 <!--
 ## Journal Articles
 <!--
