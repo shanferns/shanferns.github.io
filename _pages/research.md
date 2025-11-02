@@ -76,7 +76,105 @@ toc_sticky: true
 </td>
 </tr>
 
+<tr>
+<td>
+    <a href="/assets/images/Cellulose_Wax.png"><img src="/assets/images/Cellulose_Wax.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>C. M. R. Madhuranthakam</b>, Shannon Q. Fernandes, A. Piozzi, and I. Francolini. 
+    <i>Mechanical Properties and Diffusion Studies in Wax–Cellulose Nanocomposite Packaging Material.</i> 
+    <b>International Journal of Molecular Sciences</b>, 23(16), 9501, 2022. 
+    <a href="https://doi.org/10.3390/ijms23169501">Paper</a> <br>
+    <ul>
+        <li>Performed molecular dynamics simulations to estimate the mechanical properties of cellulose–wax nanocomposites, demonstrating improved strength and modulus of elasticity compared to conventional polymer packaging materials.</li>
+        <li>Evaluated thermal stability via glass transition temperature, providing insights into the glassy and rubbery states for eco-friendly packaging applications.</li>
+        <li>Analyzed transport properties of oxygen, nitrogen, and water by estimating diffusion volumes and coefficients, linking diffusion behavior to interaction energies with cellulose and wax constituents.</li>
+    </ul>
+</td>
+</tr>
 
+<tr>
+<td>
+    <a href="/assets/images/Adulose.png"><img src="/assets/images/Adulose.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>C. M. R. Madhuranthakam</b>, Shannon Q. Fernandes, A. Piozzi, and I. Francolini. 
+    <i>Mechanical Properties and Diffusion Studies in Wax–Cellulose Nanocomposite Packaging Material.</i> 
+    <b>International Journal of Molecular Sciences</b>, 23(16), 9501, 2022. 
+    <a href="https://doi.org/10.3390/ijms23169501">Paper</a> <br>
+    <ul>
+        <li>Designed a lotus leaf–inspired cellulose derivative (Adulose) by layering cellulose with nonacosan-10-ol and nonacosane-5,10-diol to achieve superior hydrophobicity while maintaining physical strength and reusability.</li>
+        <li>Constructed an atomistic model with 24 cellulose chains and 48 molecules of each wax component, performing molecular dynamics simulations using LAMMPS under isothermal–isobaric conditions to study material behavior.</li>
+        <li>Evaluated mechanical and surface properties, showing ultimate stress comparable to polyethylene and contact angles over 150°, confirming excellent nonwettability for eco-friendly packaging applications.</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
+    <a href="/assets/images/Moringa_CrVI.png"><img src="/assets/images/Moringa_CrVI.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>C. M. R. Madhuranthakam</b>, A. Thomas, Z. Akhter, Shannon Q. Fernandes, and A. Elkamel. 
+    <i>Removal of Chromium (VI) from Contaminated Water Using Untreated Moringa Leaves as Biosorbent.</i> 
+    <b>Pollutants</b>, 1(1), 51–64, 2021. 
+    <a href="https://doi.org/10.3390/pollutants1010006">Paper</a> <br>
+    <ul>
+        <li>Investigated biosorption of Cr(VI) from industrial wastewater using raw Moringa Oleifera leaf powder as a sustainable, low-cost biosorbent.</li>
+        <li>Evaluated adsorption efficiency across varying Cr(VI) concentrations (1–20 ppm) and biosorbent dosages (0.5–2.5 g), achieving 30–90% metal removal within 30–90 minutes.</li>
+        <li>Modeled experimental results with Langmuir, Freundlich, and Redlich–Peterson isotherms and confirmed metal binding to carboxylate and hydroxyl groups using FTIR analysis and molecular docking simulations.</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
+    <a href="/assets/images/VitaminD3_COVID.png"><img src="/assets/images/VitaminD3_COVID.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>C. M. Madhuranthakam</b> and Shannon Q. Fernandes. 
+    <i>Docking and Molecular Dynamic Simulations of Cholecalciferol (Vitamin D3) as a Promising Inhibitor of Main Protease of Coronavirus to Prevent COVID-19 Infection.</i> 
+    In <b>Proceedings of the 13th International Conference on Computer Modeling and Simulation</b>, pp. 50–57, 2021. <br>
+    <ul>
+        <li>Conducted molecular docking studies to investigate the binding of Cholecalciferol (Vitamin D3), Resveratrol, and Curcumin to the COVID-19 main protease, identifying VD3 as a promising, low-cost inhibitor.</li>
+        <li>Performed molecular dynamics (MD) simulations using LAMMPS with the CHARMM force field to evaluate binding stability and interactions, including RMSD, RMSF, and hydrogen bonding.</li>
+        <li>Demonstrated that Vitamin D3 exhibits comparable docking affinity to hydroxychloroquine and plays a key role in inhibiting the main protease, highlighting its potential as a naturally derived therapeutic candidate.</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
+    <a href="/assets/images/TBC_Simulation.png"><img src="/assets/images/TBC_Simulation.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>H. A. Khalifeh</b>, M. Alkhedher, and Shannon Q. Fernandes. 
+    <i>Two-Dimensional Computational Fluid Dynamics Simulations of Three-Phase Hydrodynamics in Turbulent Bed Contactor.</i> 
+    <b>International Review on Modelling and Simulations</b>, 14(4), 281–290, 2021. 
+    <a href="https://doi.org/10.15866/imos.v14i4.18932">Paper</a> <br>
+    <ul>
+        <li>Developed a two-dimensional multiphase Eulerian computational model to simulate the hydrodynamic behavior of three-phase (air–water–beads) turbulent bed contactors under various operating conditions.</li>
+        <li>Analyzed the impact of superficial gas velocity, static bed height, and liquid flow rate on bed pressure drop, providing insights into critical design and operational parameters.</li>
+        <li>Validated simulation results against experimental data, demonstrating high accuracy and enhancing understanding of efficiency optimization in turbulent bed contactors for process industry applications.</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
+    <a href="/assets/images/TBC_Fluent.png"><img src="/assets/images/TBC_Fluent.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>H. A. Khalifeh</b>, M. Alkhedher, and Shannon Q. Fernandes. 
+    <i>Two-Phase Hydrodynamic Simulations of Turbulent Bed Contactor Using ANSYS Fluent.</i> 
+    <b>International Review on Modelling and Simulations</b>, 14(4), 2021. <br>
+    <ul>
+        <li>Developed a computational model using ANSYS Fluent to simulate bed hydrodynamics and pressure drop in turbulent bed contactors under varying gas velocities, static bed heights, particle sizes, liquid flow rates, and rheological properties.</li>
+        <li>Conducted two-phase (gas–solid) simulations, analyzing the effect of operational parameters on pressure drop and overall hydrodynamic behavior.</li>
+        <li>Validated simulation results against experimental data, demonstrating strong agreement and providing insights into design and operational factors affecting TBC efficiency in the process industry.</li>
+    </ul>
+</td>
+</tr>
 
 </table>
 
