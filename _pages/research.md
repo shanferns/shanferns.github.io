@@ -26,6 +26,24 @@ toc_sticky: true
         </ul>
     </td>
     </tr>
+
+    <tr>
+<td>
+    <a href="/assets/images/SlowWave_Model.png"><img src="/assets/images/SlowWave_Model.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>Shannon Q. Fernandes</b>, Mayuresh V. Kothare, Roberta Sclocco, and Babak Mahmoudi. 
+    <i>Impact of Slow Wave Abnormalities and Impaired Coordination of Pyloric Closure and Antral Contraction on Gastric Emptying: A Compartmental Modeling Study.</i> 
+    Submitted to: <b>Annals of Biomedical Engineering (BMES)</b>, 2025. <br>
+    <ul>
+        <li>Developed a computationally efficient gastric compartmental model to simulate diseased stomach function by altering antral–pyloric coordination and slow wave dynamics.</li>
+        <li>Incorporated enhanced flow coupling and regional slow wave variability (bradygastria, tachygastria, and quiescent activity) to evaluate motility, gastric emptying, and mixing efficiency under healthy and impaired conditions.</li>
+        <li>Demonstrated that abnormal slow wave patterns delay gastric emptying, induce retrograde transpyloric flow, and reduce mixing efficiency—providing a mechanistic and fast-executing platform for model-based closed-loop neurostimulation therapy design.</li>
+    </ul>
+</td>
+</tr>
+
+
 </table>
 
 <!--
