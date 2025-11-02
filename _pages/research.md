@@ -167,7 +167,8 @@ toc_sticky: true
 <td>
     H. A. Khalifeh, M. Alkhedher, and <b>Shannon Q. Fernandes</b>. 
     <i>A CFD Simulation for a Two-Phase Turbulent Bed Contactor.</i> 
-    In <b>Proceedings of the 8th International Conference on Modeling, Simulation and Applied Optimization (ICMSAO)</b>, pp. 1–4, IEEE, 2019. <br>
+    In <b>Proceedings of the 8th International Conference on Modeling, Simulation and Applied Optimization (ICMSAO)</b>, pp. 1–4, IEEE, 2019. 
+    <a href="https://ieeexplore.ieee.org/abstract/document/8880361">Paper</a> <br>
     <ul>
         <li>Developed a two-phase CFD model to simulate hydrodynamics in turbulent bed contactors, focusing on gas–solid interactions and pressure drop behavior.</li>
         <li>Investigated the effect of varying operational parameters including gas velocity, bed height, and particle size on the bed hydrodynamics.</li>
@@ -175,6 +176,7 @@ toc_sticky: true
     </ul>
 </td>
 </tr>
+
 
 </table>
 
