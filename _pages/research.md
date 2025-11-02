@@ -81,7 +81,7 @@ toc_sticky: true
     <a href="/assets/images/Cellulose_Wax.png"><img src="/assets/images/Cellulose_Wax.png" height="400" width="800" alt=""></a>
 </td>
 <td>
-    <b>C. M. R. Madhuranthakam</b>, Shannon Q. Fernandes, A. Piozzi, and I. Francolini. 
+    C. M. R. Madhuranthakam, <b>Shannon Q. Fernandes</b>, A. Piozzi, and I. Francolini. 
     <i>Mechanical Properties and Diffusion Studies in Wax–Cellulose Nanocomposite Packaging Material.</i> 
     <b>International Journal of Molecular Sciences</b>, 23(16), 9501, 2022. 
     <a href="https://doi.org/10.3390/ijms23169501">Paper</a> <br>
@@ -98,10 +98,10 @@ toc_sticky: true
     <a href="/assets/images/Adulose.png"><img src="/assets/images/Adulose.png" height="400" width="800" alt=""></a>
 </td>
 <td>
-    <b>C. M. R. Madhuranthakam</b>, Shannon Q. Fernandes, A. Piozzi, and I. Francolini. 
-    <i>Mechanical Properties and Diffusion Studies in Wax–Cellulose Nanocomposite Packaging Material.</i> 
-    <b>International Journal of Molecular Sciences</b>, 23(16), 9501, 2022. 
-    <a href="https://doi.org/10.3390/ijms23169501">Paper</a> <br>
+    <b>Shannon Q. Fernandes</b> and C. M. R. Madhuranthakam. 
+    <i>Molecular Dynamics Simulation of a Superhydrophobic Cellulose Derivative Targeted for Eco-Friendly Packaging Material.</i> 
+    <b>Macromolecular Theory and Simulations</b>, 30(1), 2000056, 2021. 
+    <a href="https://doi.org/10.1002/mats.202000056">Paper</a> <br>
     <ul>
         <li>Designed a lotus leaf–inspired cellulose derivative (Adulose) by layering cellulose with nonacosan-10-ol and nonacosane-5,10-diol to achieve superior hydrophobicity while maintaining physical strength and reusability.</li>
         <li>Constructed an atomistic model with 24 cellulose chains and 48 molecules of each wax component, performing molecular dynamics simulations using LAMMPS under isothermal–isobaric conditions to study material behavior.</li>
@@ -115,7 +115,7 @@ toc_sticky: true
     <a href="/assets/images/Moringa_CrVI.png"><img src="/assets/images/Moringa_CrVI.png" height="400" width="800" alt=""></a>
 </td>
 <td>
-    <b>C. M. R. Madhuranthakam</b>, A. Thomas, Z. Akhter, Shannon Q. Fernandes, and A. Elkamel. 
+    C. M. R. Madhuranthakam, A. Thomas, Z. Akhter, <b>Shannon Q. Fernandes</b>, and A. Elkamel. 
     <i>Removal of Chromium (VI) from Contaminated Water Using Untreated Moringa Leaves as Biosorbent.</i> 
     <b>Pollutants</b>, 1(1), 51–64, 2021. 
     <a href="https://doi.org/10.3390/pollutants1010006">Paper</a> <br>
@@ -132,7 +132,7 @@ toc_sticky: true
     <a href="/assets/images/VitaminD3_COVID.png"><img src="/assets/images/VitaminD3_COVID.png" height="400" width="800" alt=""></a>
 </td>
 <td>
-    <b>C. M. Madhuranthakam</b> and Shannon Q. Fernandes. 
+    C. M. Madhuranthakam and <b>Shannon Q. Fernandes</b>. 
     <i>Docking and Molecular Dynamic Simulations of Cholecalciferol (Vitamin D3) as a Promising Inhibitor of Main Protease of Coronavirus to Prevent COVID-19 Infection.</i> 
     In <b>Proceedings of the 13th International Conference on Computer Modeling and Simulation</b>, pp. 50–57, 2021. <br>
     <ul>
@@ -148,7 +148,7 @@ toc_sticky: true
     <a href="/assets/images/TBC_Simulation.png"><img src="/assets/images/TBC_Simulation.png" height="400" width="800" alt=""></a>
 </td>
 <td>
-    <b>H. A. Khalifeh</b>, M. Alkhedher, and Shannon Q. Fernandes. 
+    H. A. Khalifeh, M. Alkhedher, and <b>Shannon Q. Fernandes</b>. 
     <i>Two-Dimensional Computational Fluid Dynamics Simulations of Three-Phase Hydrodynamics in Turbulent Bed Contactor.</i> 
     <b>International Review on Modelling and Simulations</b>, 14(4), 281–290, 2021. 
     <a href="https://doi.org/10.15866/imos.v14i4.18932">Paper</a> <br>
@@ -165,7 +165,7 @@ toc_sticky: true
     <a href="/assets/images/TBC_CFD_2019.png"><img src="/assets/images/TBC_CFD_2019.png" height="400" width="800" alt=""></a>
 </td>
 <td>
-    <b>H. A. Khalifeh</b>, M. Alkhedher, and Shannon Q. Fernandes. 
+    H. A. Khalifeh, M. Alkhedher, and <b>Shannon Q. Fernandes</b>. 
     <i>A CFD Simulation for a Two-Phase Turbulent Bed Contactor.</i> 
     In <b>Proceedings of the 8th International Conference on Modeling, Simulation and Applied Optimization (ICMSAO)</b>, pp. 1–4, IEEE, 2019. <br>
     <ul>
