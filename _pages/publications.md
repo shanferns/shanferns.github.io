@@ -5,8 +5,8 @@ sitemap: true
 permalink: /publications/
 author_profile: true
 ---
-
-
+Coming soon: Tutorials on organ modeling
+<!--
 ## Journal Articles
 <!--
 | <a href="/assets/images/m2lines_logo.png"><img src="/assets/images/m2lines_logo.png" width="600px" alt=""> | Balwada, D., ..., **Loose, N.**, and Zanna, L. (2024). Learning Machine Learning with Lorenz-96, _Journal of Open Source Education_. doi: [10.21105/jose.00241](https://doi.org/10.21105/jose.00241).|
