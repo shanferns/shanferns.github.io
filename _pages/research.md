@@ -43,6 +43,40 @@ toc_sticky: true
 </td>
 </tr>
 
+<tr>
+<td>
+    <a href="/assets/images/GutBrain_Model.png"><img src="/assets/images/GutBrain_Model.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>Shannon Q. Fernandes</b> and Mayuresh V. Kothare. 
+    <i>A Compartmental Model for Simulating the Gut–Brain Axis in Gastric Function Regulation.</i> 
+    <b>bioRxiv</b>, 2025-06. <a href="https://www.biorxiv.org/">Paper</a> <br>
+    <ul>
+        <li>Developed the first complete computational model of the vago-vagal reflex loop that simulates parasympathetic vagal pathways regulating gastric motility and pyloric sphincter relaxation during the gastric emptying phase.</li>
+        <li>Introduced a gut–brain axis model integrating vagal and enteric nervous system (ENS) pathways within a computationally efficient compartmental framework, capturing afferent and efferent feedback dynamics across the fundus, antrum, and pylorus.</li>
+        <li>Derived equations to simulate neurotransmitter release and neuromuscular coupling, reproducing physiological responses such as excitatory gastric emptying during parasympathetic activation and inhibitory activity under sympathetic modulation—providing a foundation for closed-loop vagal stimulation therapies for gastrointestinal (GI) disorders.</li>
+    </ul>
+</td>
+</tr>
+
+<tr>
+<td>
+    <a href="/assets/images/Compartmental_Model.png"><img src="/assets/images/Compartmental_Model.png" height="400" width="800" alt=""></a>
+</td>
+<td>
+    <b>Shannon Q. Fernandes</b>, Mayuresh V. Kothare, and Babak Mahmoudi. 
+    <i>A Novel Compartmental Approach for Modeling Stomach Motility and Gastric Emptying.</i> 
+    <b>Computers in Biology and Medicine</b>, Elsevier, 181, 109035, 2024. 
+    <a href="https://doi.org/10.1016/j.compbiomed.2024.109035">Paper</a> <br>
+    <ul>
+        <li>Developed a cost-efficient multi-compartmental model of the human stomach that integrates electrophysiology, muscle mechanics, and fluid dynamics to simulate gastric motility and emptying at the organ level.</li>
+        <li>Represented the proximal, middle, and terminal antrum and pyloric sphincter using coupled ODE-based compartments with electro-mechanical coupling to capture slow-wave–driven peristalsis and retrograde flow dynamics.</li>
+        <li>Validated model predictions against experimental and computational studies, demonstrating accurate electro-mechanical correlations, realistic emptying and mixing behavior, and rapid simulation performance (180 s simulated in 2.7 s), enabling applications in neuromodulation therapy design for gastric disorders.</li>
+    </ul>
+</td>
+</tr>
+
+
 
 </table>
 
