@@ -134,7 +134,8 @@ toc_sticky: true
 <td>
     C. M. Madhuranthakam and <b>Shannon Q. Fernandes</b>. 
     <i>Docking and Molecular Dynamic Simulations of Cholecalciferol (Vitamin D3) as a Promising Inhibitor of Main Protease of Coronavirus to Prevent COVID-19 Infection.</i> 
-    In <b>Proceedings of the 13th International Conference on Computer Modeling and Simulation</b>, pp. 50–57, 2021. <br>
+    In <b>Proceedings of the 13th International Conference on Computer Modeling and Simulation</b>, pp. 50–57, 2021. 
+    <a href="https://dl.acm.org/doi/abs/10.1145/3474963.3474971">Paper</a> <br>
     <ul>
         <li>Conducted molecular docking studies to investigate the binding of Cholecalciferol (Vitamin D3), Resveratrol, and Curcumin to the COVID-19 main protease, identifying VD3 as a promising, low-cost inhibitor.</li>
         <li>Performed molecular dynamics (MD) simulations using LAMMPS with the CHARMM force field to evaluate binding stability and interactions, including RMSD, RMSF, and hydrogen bonding.</li>
@@ -151,7 +152,7 @@ toc_sticky: true
     H. A. Khalifeh, M. Alkhedher, and <b>Shannon Q. Fernandes</b>. 
     <i>Two-Dimensional Computational Fluid Dynamics Simulations of Three-Phase Hydrodynamics in Turbulent Bed Contactor.</i> 
     <b>International Review on Modelling and Simulations</b>, 14(4), 281–290, 2021. 
-    <a href="https://doi.org/10.15866/imos.v14i4.18932">Paper</a> <br>
+    <a href="https://www.praiseworthyprize.org/jsm/index.php?journal=iremos&page=article&op=view&path%5B%5D=25529">Paper</a> <br>
     <ul>
         <li>Developed a two-dimensional multiphase Eulerian computational model to simulate the hydrodynamic behavior of three-phase (air–water–beads) turbulent bed contactors under various operating conditions.</li>
         <li>Analyzed the impact of superficial gas velocity, static bed height, and liquid flow rate on bed pressure drop, providing insights into critical design and operational parameters.</li>
