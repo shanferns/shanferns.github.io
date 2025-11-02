@@ -9,6 +9,25 @@ toc_label: "Research"
 toc_icon: "gear"
 toc_sticky: true
 ---
+
+# Publications
+
+<table>
+    <tr>
+    <td>
+        <a href="/assets/images/VNS_Control.png"><img src="/assets/images/VNS_Control.png" height="400" width="800" alt=""></a>
+    </td>
+    <td>
+        <b>Shannon Q. Fernandes</b> and Mayuresh V. Kothare. <i>Nonlinear Model Predictive Control Framework to Improve Gastric Function Using Vagal Nerve Stimulation.</i> Submitted to: <b>American Control Conference (ACC), IFAC & IEEE</b>, 2025. <br>
+        <ul>
+            <li>Developed the first closed-loop framework for regulating gastric function using vagus nerve stimulation (VNS) integrated with a physiologically informed compartmental stomach model.</li>
+            <li>Designed a nonlinear model predictive control (NMPC) strategy to adaptively tune invasive VNS parameters within physiological limits, enhancing gastric motility and emptying efficiency.</li>
+            <li>Incorporated the vago-vagal reflex loop to simulate brain–stomach communication and vagal feedback control, advancing model-based closed-loop neuromodulation for gastrointestinal (GI) disorders such as functional dyspepsia.</li>
+        </ul>
+    </td>
+    </tr>
+</table>
+
 <!--
 My research lies at the intersection of physical oceanography, numerical modeling, and machine learning. Current and past research projects include:
 - Regional coupled physical-biogeochemical modeling
