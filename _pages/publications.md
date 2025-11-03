@@ -1,8 +1,8 @@
 ---
-title: "Publications"
+title: "Tutorials"
 layout: archive
 sitemap: true
-permalink: /publications/
+permalink: /tutorials/
 author_profile: true
 ---
 ## Coming soon
