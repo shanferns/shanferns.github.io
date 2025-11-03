@@ -15,7 +15,7 @@ toc_sticky: true
 <table>
     <tr>
     <td>
-        <a href="/assets/images/VNS_Control.png"><img src="/assets/images/VNS_Control.png" height="100" width="100" alt=""></a>
+        <a href="/assets/images/VNS_Control.png"><img src="/assets/images/VNS_Control.png" height="300" width="300" alt=""></a>
     </td>
     <td>
         <b>Shannon Q. Fernandes</b> and Mayuresh V. Kothare. <i>Nonlinear Model Predictive Control Framework to Improve Gastric Function Using Vagal Nerve Stimulation.</i> Submitted to: <b>American Control Conference (ACC), IFAC & IEEE</b>, 2025. <br>
@@ -29,7 +29,7 @@ toc_sticky: true
 
     <tr>
 <td>
-    <a href="/assets/images/SlowWave_Model.png"><img src="/assets/images/SlowWave_Model.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/SlowWave_Model.png"><img src="/assets/images/SlowWave_Model.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     <b>Shannon Q. Fernandes</b>, Mayuresh V. Kothare, Roberta Sclocco, and Babak Mahmoudi. 
@@ -45,7 +45,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/GutBrain_Model.png"><img src="/assets/images/GutBrain_Model.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/GutBrain_Model.png"><img src="/assets/images/GutBrain_Model.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     <b>Shannon Q. Fernandes</b> and Mayuresh V. Kothare. 
@@ -61,7 +61,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/Compartmental_Model.png"><img src="/assets/images/Compartmental_Model.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/Compartmental_Model.png"><img src="/assets/images/Compartmental_Model.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     <b>Shannon Q. Fernandes</b>, Mayuresh V. Kothare, and Babak Mahmoudi. 
@@ -78,7 +78,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/Cellulose_Wax.png"><img src="/assets/images/Cellulose_Wax.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/Cellulose_Wax.png"><img src="/assets/images/Cellulose_Wax.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     C. M. R. Madhuranthakam, <b>Shannon Q. Fernandes</b>, A. Piozzi, and I. Francolini. 
@@ -95,7 +95,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/Adulose.png"><img src="/assets/images/Adulose.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/Adulose.png"><img src="/assets/images/Adulose.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     <b>Shannon Q. Fernandes</b> and C. M. R. Madhuranthakam. 
@@ -112,7 +112,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/Moringa_CrVI.png"><img src="/assets/images/Moringa_CrVI.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/Moringa_CrVI.png"><img src="/assets/images/Moringa_CrVI.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     C. M. R. Madhuranthakam, A. Thomas, Z. Akhter, <b>Shannon Q. Fernandes</b>, and A. Elkamel. 
@@ -129,7 +129,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/VitaminD3_COVID.png"><img src="/assets/images/VitaminD3_COVID.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/VitaminD3_COVID.png"><img src="/assets/images/VitaminD3_COVID.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     C. M. Madhuranthakam and <b>Shannon Q. Fernandes</b>. 
@@ -146,7 +146,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/TBC_Simulation.png"><img src="/assets/images/TBC_Simulation.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/TBC_Simulation.png"><img src="/assets/images/TBC_Simulation.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     H. A. Khalifeh, M. Alkhedher, and <b>Shannon Q. Fernandes</b>. 
@@ -163,7 +163,7 @@ toc_sticky: true
 
 <tr>
 <td>
-    <a href="/assets/images/TBC_CFD_2019.png"><img src="/assets/images/TBC_CFD_2019.png" height="400" width="800" alt=""></a>
+    <a href="/assets/images/TBC_CFD_2019.png"><img src="/assets/images/TBC_CFD_2019.png" height="300" width="300" alt=""></a>
 </td>
 <td>
     H. A. Khalifeh, M. Alkhedher, and <b>Shannon Q. Fernandes</b>. 
