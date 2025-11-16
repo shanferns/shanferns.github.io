@@ -1,6 +1,6 @@
 ---
 title: "Research"
-layout: single
+layout: archive
 sitemap: true
 permalink: /research/
 ---
