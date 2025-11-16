@@ -169,7 +169,7 @@ $$
 - $T$: absolute temperature (Kelvin)  
 - $z$: charge of the ion (e.g., +1 for K⁺, Na⁺)  
 - $F$: Faraday’s constant (96485 C/mol)  
-- $[ion]_{out}$, $[ion]_{in}$: extracellular and intracellular ion concentrations  
+- $[ion]_{out}$ and  $[ion]_{in}$: extracellular and intracellular ion concentrations  
 
  **Interpretation:**  
 If the membrane potential $V_m = E_{ion}$, that ion is in electrochemical equilibrium.  
@@ -250,11 +250,13 @@ $$
 
 where:
 $$
+\begin{equation}
 \begin{aligned}
 I_{Na} &= \bar{g}_{Na} m^3 h (V_m - E_{Na}) \\
 I_{K} &= \bar{g}_{K} n^4 (V_m - E_{K}) \\
 I_{L} &= \bar{g}_{L} (V_m - E_{L})
 \end{aligned}
+\end{equation}
 $$
 
 
@@ -270,7 +272,7 @@ $$
 \end{equation}
 $$
 
-where $\alpha_x(V)$ and $\beta_x(V)$ are **voltage-dependent rate constants**.
+where $\alpha_{x(V)}$ and $\beta_{x(V)}$ are **voltage-dependent rate constants**.
 
 ### Action Potential Mechanism:
 1. **Depolarization:** Na⁺ channels open rapidly → Na⁺ influx  
