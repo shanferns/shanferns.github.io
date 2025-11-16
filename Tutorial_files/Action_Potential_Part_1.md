@@ -143,9 +143,6 @@ The plateau occurs due to a balance between inward Ca²⁺ current (via L-type c
 - Cardiac muscle cells responsible for contraction  
 - Gastric smooth muscle cells during strong phasic contractions
 
-
-
-
 # The Hodgkin–Huxley Model and Neuronal Excitability  
 
 The **Hodgkin–Huxley (HH) model** mathematically describes how neurons generate and propagate **action potentials** based on ionic currents through voltage-gated channels.  
