@@ -14,4 +14,4 @@ permalink: /Projects/
   download the pdf file.</a></p>  
 </object>
 
-Using image-processing techniques—including motion correction, segmentation, Otsu thresholding, and spatiotemporal imaging—to extract quantitative data, followed by applying data-science methods such as logistic regression, LDA, QDA, and KNN to evaluate which approach best captures the effects of VNS on gastric motility.
+Using image-processing techniques—including motion correction, segmentation, Otsu thresholding, and spatiotemporal imaging—to extract quantitative data, followed by applying data-science methods such as logistic regression, LDA, QDA, and KNN to evaluate which data-science approach best predicts the effects of VNS on gastric motility.
