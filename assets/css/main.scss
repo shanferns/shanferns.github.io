@@ -22,3 +22,32 @@ html {
     font-size: 20px; // change to whatever
   }
 }
+
+/* --- Custom overrides for publication layout --- */
+
+/* Make the page content use full width */
+.page-content, .wrapper, .archive {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Let the table stretch normally */
+table {
+  width: 100% !important;
+  table-layout: fixed;
+}
+
+/* Fix text wrapping inside table cells */
+td {
+  vertical-align: top;
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow: visible !important;
+  padding: 10px;
+}
+
+/* Prevent images from squeezing text */
+td img {
+  max-width: 100%;
+  height: auto;
+}
