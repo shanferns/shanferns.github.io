@@ -11,7 +11,7 @@ author_profile: true
 <table>
     <tr>
     <td>
-        <a href="/assets/images/VNS_Control.png"><img src="/assets/images/VNS_Control.png" height="300" width="300" alt=""></a>
+        <a href="/assets/images/VNS_Control.png"><img src="/assets/images/VNS_Control.png" height="400" width="400" alt=""></a>
     </td>
     <td>
         <b>Shannon Q. Fernandes</b> and Mayuresh V. Kothare. <i>Nonlinear Model Predictive Control Framework to Improve Gastric Function Using Vagal Nerve Stimulation.</i> Submitted to: <b>American Control Conference (ACC), IFAC & IEEE</b>, 2025. <br>
