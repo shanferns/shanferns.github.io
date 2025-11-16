@@ -26,11 +26,11 @@ Using image-processing techniques—including motion correction, segmentation, O
 
 Extending the existing Hodgkin–Huxley model to represent the afferent vagal nerve in rats, and using cable theory to model action potential propagation along the nerve.
 
-[A Comparative Study of Armchair Carbon Nanotubes under Shear Deformation using Molecular Dynamics Simulation](/Project_document/Carbon nanotube.pdf).
+[A Comparative Study of Armchair Carbon Nanotubes under Shear Deformation using Molecular Dynamics Simulation](/Project_document/Carbon_nanotube.pdf).
 
-<object data="/Project_document/Carbon nanotube.pdf" type="application/pdf" width="100%" height="70px"> 
+<object data="/Project_document/Carbon_nanotube.pdf" type="application/pdf" width="100%" height="70px"> 
   <p>It appears you don't have a pdf plugin for this browser.
-  You can <a href="/Project_document/Carbon nanotube.pdf">click here to
+  You can <a href="/Project_document/Carbon_nanotube.pdf">click here to
   download the pdf file.</a></p>  
 </object>
 
