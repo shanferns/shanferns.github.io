@@ -1,5 +1,5 @@
 ---
-title: "Resume"
+title: "Resume/CV"
 layout: archive
 sitemap: true
 author_profile: true
