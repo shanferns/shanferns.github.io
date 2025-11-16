@@ -6,5 +6,7 @@ main:
     url: /research/
   - title: "Tutorials"
     url: /tutorials/
-  - title: "Resume" 
+  - title: "Projects" 
+    url: /Projects/
+  - title: "Resume/CV" 
     url: /Resume/
