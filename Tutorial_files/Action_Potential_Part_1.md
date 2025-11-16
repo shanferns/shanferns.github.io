@@ -267,14 +267,12 @@ where $\alpha_x(V)$ and $\beta_x(V)$ are **voltage-dependent rate constants**.
 
 ---
 
-## 🧾 Summary Table
-
-| Concept | Equation | Key Idea | Related Video |
-|----------|-----------|-----------|---------------|
-| **Nernst Equation** | $E_{ion} = \frac{RT}{zF} \ln \frac{[ion]_{out}}{[ion]_{in}}$ | Single ion equilibrium | [🔗](https://www.youtube.com/watch?v=rJSJWosBJg0&ab_channel=ScienceWithTal) |
-| **Goldman Equation** | $V_m = \frac{RT}{F}\ln\frac{P_K[K^+]_{out}+P_{Na}[Na^+]_{out}+P_{Cl}[Cl^-]_{in}}{P_K[K^+]_{in}+P_{Na}[Na^+]_{in}+P_{Cl}[Cl^-]_{out}}$ | Multi-ion resting potential | [🔗](https://www.youtube.com/watch?v=YOFXkZu-r8M&t=498s&ab_channel=ScienceWithTal) |
+| Concept                | Equation | Key Idea                  | Related Video |
+|------------------------|---------|---------------------------|---------------|
+| **Nernst Equation**    | $E_{ion} = \frac{RT}{zF} \ln \frac{[ion]_{out}}{[ion]_{in}}$ | Single ion equilibrium | [🔗](https://www.youtube.com/watch?v=rJSJWosBJg0&ab_channel=ScienceWithTal) |
+| **Goldman Equation**   | $V_m = \frac{RT}{F} \ln \frac{P_K [K^+]_{out} + P_{Na} [Na^+]_{out} + P_{Cl} [Cl^-]_{in}}{P_K [K^+]_{in} + P_{Na} [Na^+]_{in} + P_{Cl} [Cl^-]_{out}}$ | Multi-ion resting potential | [🔗](https://www.youtube.com/watch?v=YOFXkZu-r8M&t=498s&ab_channel=ScienceWithTal) |
 | **Equivalent Circuit** | $I_{ext} = C_m \frac{dV_m}{dt} + \sum I_{ion}$ | Neuron as RC circuit | [🔗](https://www.youtube.com/watch?v=LdumhvDBpzQ&ab_channel=ScienceWithTal) |
-| **Hodgkin–Huxley Model** | $C_m\frac{dV_m}{dt}=I_{ext}-(I_{Na}+I_{K}+I_{L})$ | Dynamic voltage-gated channels | [🔗](https://www.youtube.com/watch?v=no_1cElnSIQ&ab_channel=ScienceWithTal) |
+| **Hodgkin–Huxley Model** | $C_m \frac{dV_m}{dt} = I_{ext} - (I_{Na} + I_K + I_L)$ | Dynamic voltage-gated channels | [🔗](https://www.youtube.com/watch?v=no_1cElnSIQ&ab_channel=ScienceWithTal) |
 
 ---
 
