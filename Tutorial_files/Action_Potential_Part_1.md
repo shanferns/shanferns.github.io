@@ -157,9 +157,12 @@ It combines biophysical principles (ion gradients, membrane permeability) into a
 The **Nernst equation** gives the **equilibrium potential** for a specific ion — the membrane voltage at which **no net ionic current** flows because the electrical and chemical gradients are balanced.
 
 ### Equation:
+
+$$
 \begin{equation}
 E_{ion} = \frac{RT}{zF} \ln\left(\frac{[ion]_{out}}{[ion]_{in}}\right)
 \end{equation}
+$$
 
 - $E_{ion}$: equilibrium (Nernst) potential for the ion (in volts)  
 - $R$: gas constant (8.314 J/mol·K)  
@@ -182,12 +185,14 @@ The **Goldman–Hodgkin–Katz (GHK) equation** extends the Nernst equation to i
 It determines the **resting membrane potential (RMP)** of a neuron.
 
 ### Equation:
+$$
 \begin{equation}
 V_m = \frac{RT}{F} \ln \left( 
 \frac{P_K [K^+]_{out} + P_{Na} [Na^+]_{out} + P_{Cl} [Cl^-]_{in}}
      {P_K [K^+]_{in} + P_{Na} [Na^+]_{in} + P_{Cl} [Cl^-]_{out}}
 \right)
 \end{equation}
+$$
 
 - $V_m$: resting membrane potential  
 - $P_{ion}$: permeability of the membrane to that ion  
@@ -207,14 +212,18 @@ A neuron can be represented electrically as an **RC circuit**:
 - **Batteries (Eₖ, ENa)** → Nernst potentials for each ion  
 
 ### Membrane Current Equation:
+$$
 \begin{equation}
 I_{ext} = C_m \frac{dV_m}{dt} + \sum I_{ion}
 \end{equation}
+$$
 
 and each ionic current:
+$$
 \begin{equation}
 I_{ion} = g_{ion}(V_m - E_{ion})
 \end{equation}
+$$
 
 - $I_{ext}$: external (stimulating) current  
 - $C_m$: membrane capacitance  
@@ -232,18 +241,21 @@ Charging/discharging of the membrane is like charging a capacitor through resist
 ### Concept:
 The HH model describes how **voltage-gated Na⁺ and K⁺ channels** generate the **action potential** through dynamic changes in conductance.
 
-### Core HH Equation:
+### Core HH Equation:\
+$$
 \begin{equation}
 C_m \frac{dV_m}{dt} = I_{ext} - (I_{Na} + I_{K} + I_{L})
 \end{equation}
+$$
 
 where:
-
+$$
 \begin{aligned}
 I_{Na} &= \bar{g}_{Na} m^3 h (V_m - E_{Na}) \\
 I_{K} &= \bar{g}_{K} n^4 (V_m - E_{K}) \\
 I_{L} &= \bar{g}_{L} (V_m - E_{L})
 \end{aligned}
+$$
 
 
 - $\bar{g}_{ion}$: maximal conductance  
@@ -252,10 +264,11 @@ I_{L} &= \bar{g}_{L} (V_m - E_{L})
 
 ### Gating Variable Dynamics:
 Each gating variable follows a **first-order ODE**:
-
+$$
 \begin{equation}
 \frac{dx}{dt} = \alpha_x(V)(1 - x) - \beta_x(V)x, \quad x \in \{m, h, n\}
 \end{equation}
+$$
 
 where $\alpha_x(V)$ and $\beta_x(V)$ are **voltage-dependent rate constants**.
 
