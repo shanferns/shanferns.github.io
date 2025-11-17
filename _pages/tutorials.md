@@ -14,6 +14,4 @@ author_profile: true
 
 - [Action Potential Part 2](/Tutorial_file/Tutorial_1/Action_potentials_tut_part_2.html)
 
-## Coming soon
-
 
