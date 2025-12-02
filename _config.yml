@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Shannon Q Fernandes"
   avatar           : "/assets/images/RES_Photo-9592.jpg" # path of avatar image, e.g. "/assets/images/RES_Photo-9558.jpg"
-  bio              : "Digital-twin, Computationally cheap medical systems modeling, Biophysics, Computational neuroscience, Closed-loop control, Computational fluid dynamics (CFD), Applied data science"
+  bio              : "Digital Twins, Physics-Informed Modeling (ODE/PDE), Reduced-Order Multi-Physics Simulation, Computational Biomechanics and Electrophysiology, Closed-Loop Physiological Control, Non-linear Model Predicitve Control, Neuromodulation (VNS/taVNS), Hybrid AI–Mechanistic Models, MRI Analysis and 4D Segmentation, Scientific Computing, CFD and Molecular Dynamics"
   location         : "Bethlehem, Pennsylvania"
   email            : "shanferns12@gmail.com"
   uri              :
