@@ -6,6 +6,18 @@ author_profile: true
 permalink: /Projects/
 ---
 
+<p>
+  <strong>Developed both a physics-based pipeline and a modified 3D U-Net for stomach organ segmentation from MRI:</strong>
+  Built a traditional image-processing workflow—denoising, rigid registration, binary Otsu thresholding, and morphological refinement—to generate high-quality stomach masks from 4D MRI datasets. Using these curated masks, designed and trained a modified 3D U-Net with organ-specific enhancements: class-imbalance handling using <code>BCEWithLogitsLoss</code>, BatchNorm in all convolutional blocks for MRI intensity stabilization, a lightweight architecture with only two downsampling stages to reduce GPU memory while preserving organ structure, and full skip connections to maintain spatial detail. Applied sigmoid and thresholding at inference to produce binary masks and validated the model on unseen MRI volumes to assess segmentation generalization and robustness.
+</p>
+
+<p>
+  View the full code on GitHub: 
+  <a href="https://github.com/shanferns/Image-processing-stomach-using-physics-based-pipeline-and-AI-methods.git" target="_blank" rel="noopener">https://github.com/shanferns/Image-processing-stomach-using-physics-based-pipeline-and-AI-methods.git</a>
+</p>
+
+
+
 [Image Processing & Data Science for Studying Vagal Nerve Stimulation (VNS) Effects on Gastric Motility](/Project_document/Data_science_presentation_Shannon.pdf).
 
 <object data="/Project_document/Data_science_presentation_Shannon.pdf" type="application/pdf" width="100%" height="70px"> 
