@@ -6,6 +6,10 @@ author_profile: true
 permalink: /Projects/
 ---
 
+[Hybrid Mechanistic–Neural Network Model for Predicting Gastric ICC Activity from Cholinergic Pathway Stimulation](https://github.com/shanferns/Hybrid-model-to-predict-ICC-activity-from-efferent-cholinergic-neuron-stimulation.git).
+
+Developed a physiologically grounded hybrid model combining mechanistic equations that relate cholinergic vagal stimulation to Interstitial Cells of Cajal (ICC) slow-wave frequency and amplitude. Because experimental datasets showed substantial subject-to-subject variability, I validated baseline trends using published literature and generated synthetic data to better represent realistic biological variation. Built a residual-learning Multi-Layer Perceptron (MLP) in PyTorch to model deviations from the mechanistic prediction. This hybrid mechanistic–ML framework improved RMSE over purely mechanistic baselines by capturing both the nonlinear dynamics mechanistically and inter-individual variability through the data-driven component.
+
 [Physics-based Pipeline & 3D U-Net for Stomach Segmentation from MRI](https://github.com/shanferns/Image-processing-stomach-using-physics-based-pipeline-and-AI-methods.git).
 
 Built a traditional image-processing workflow—denoising, rigid registration, binary Otsu thresholding, and morphological refinement—to generate high-quality stomach masks from 4D MRI datasets. Using these curated masks, designed and trained a modified 3D U-Net with organ-specific enhancements: class-imbalance handling using <code>BCEWithLogitsLoss</code>, BatchNorm in all convolutional blocks for MRI intensity stabilization, a lightweight architecture with only two downsampling stages to reduce GPU memory while preserving organ structure, and full skip connections to maintain spatial detail. Applied sigmoid and thresholding at inference to produce binary masks and validated the model on unseen MRI volumes to assess segmentation generalization and robustness.
